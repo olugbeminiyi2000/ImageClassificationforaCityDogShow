@@ -1,6 +1,6 @@
 # Citywide Dog Show Image Classification
 
-![License](https://img.shields.io/github/license/yourusername/your-repository)
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-green)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Deep Learning](https://img.shields.io/badge/deep_learning-CNN%20%28ResNet%2C%20AlexNet%2C%20VGG%29-ff69b4)
@@ -95,5 +95,4 @@ Execution Time: 120 seconds
 Feel free to fork this repository, submit pull requests, or create issues. Contributions are welcome!
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
