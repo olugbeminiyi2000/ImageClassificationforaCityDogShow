@@ -37,7 +37,7 @@ To run the project, you will need to have Python (version 3.8 or later) and the 
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/olugbeminiyi2000/ImageClassificationforaCityDogShow.git
 ```
 
 2. Run the `check_images.py` script with the following command line arguments:
